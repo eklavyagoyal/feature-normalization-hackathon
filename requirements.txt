@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+pyarrow>=14.0
+tqdm>=4.60
+pyahocorasick>=2.0
